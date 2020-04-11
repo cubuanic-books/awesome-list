@@ -13,8 +13,11 @@
 * https://github.com/mezod/awesome-indie
 * https://github.com/sustainers/awesome-oss-funding
 
-* https://github.com/jaywcjlove/awesome-mac
 
 # MEGA list
 * https://github.com/jnv/lists 6.4k
 * https://github.com/sindresorhus/awesome 131k
+
+# Mac/Hackintosh list
+* https://github.com/jaywcjlove/awesome-mac
+* https://github.com/Benjamin-Dobell/nvidia-update
